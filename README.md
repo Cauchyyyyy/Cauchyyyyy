@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Cauchyyyyy
-- 👀 I’m interested in Doctor Who
 - 🌱 I’m currently learning Algorithms, Numeric Analysis, Math Modeling, and Wavelet 
 - 📫 Contact me at Cauchyyyyy@outlook.com
 
